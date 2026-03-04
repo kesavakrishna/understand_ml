@@ -6,3 +6,6 @@ i understood the purpose of the pla and how it works, but am still confused on t
 
 31/01/2026
 done with linear and logistic regression. also learnt regularization, eval metrics and roc/auc curves
+
+05/03/2026
+done with the concept of trees. onto random forests we go
