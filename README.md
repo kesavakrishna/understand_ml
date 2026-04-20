@@ -12,3 +12,6 @@ done with the concept of trees. onto random forests we go
 
 20/03/2026
 done with rf!
+
+20/04/2026
+done with xgboost!
