@@ -15,3 +15,10 @@ done with rf!
 
 20/04/2026
 done with xgboost!
+
+04/05/2026
+done with svm!
+
+15/05/2026
+done with k means clustering!
+
